@@ -1,0 +1,6 @@
+Runtime Comparison of MergeSort using Generics and Priority Queue:
+
+
+Using Generics:  408 ms
+
+Using Priority Queue: 356 ms
